@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=num
+comment1.target=boolean\ CheckNum(int)
+comment2.params=NSEW
+comment2.target=boolean\ CheckLetter(java.lang.String)
+comment3.params=num\ NSEW\ karel\ array\ trn
+comment3.target=int\ moveDirection(int,\ java.lang.String,\ efficientRobot,\ int[],\ int)
+comment4.params=array
+comment4.target=boolean\ CheckColumn(int[])
+comment5.params=array
+comment5.target=boolean\ CheckRow(int[])
+comment6.params=array
+comment6.target=boolean\ CheckDiagonal(int[])
+comment7.params=currentArray\ originalArray\ robotArray\ x
+comment7.target=void\ OriginalPosition(int[],\ int[],\ efficientRobot[],\ int)
+numComments=8

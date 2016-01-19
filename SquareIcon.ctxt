@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=color
+comment0.target=SquareIcon(java.awt.Color)
+comment1.params=color\ relativeSize
+comment1.target=SquareIcon(java.awt.Color,\ double)
+numComments=2

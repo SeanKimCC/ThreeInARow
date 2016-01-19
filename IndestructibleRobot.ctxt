@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=c\ s\ a\ d\ b
+comment0.target=IndestructibleRobot(becker.robots.City,\ int,\ int,\ becker.robots.Direction,\ int)
+comment1.params=
+comment1.target=void\ move()
+comment2.params=
+comment2.target=void\ originMove()
+comment3.params=
+comment3.target=void\ pickThing()
+comment4.params=
+comment4.target=void\ putThing()
+numComments=5
